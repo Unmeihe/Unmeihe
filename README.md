@@ -7,12 +7,12 @@
            width="12.5%" 
            align="right" 
            valign="middle" 
-           src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/whale_1f40b.png" 
+           src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fox_1f98a.png" 
            target="_blank" 
       />
    
  <br>
- <a align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=;I'm+a+Blogger"></a>
+ <a align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=;I+am+Tester"></a>
  
  <div align="center">
 
@@ -67,11 +67,12 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Unmeihe">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unmeihe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Unmeihe">
+  <a href="#" title="Unmeihe">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Unmeihe&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -81,7 +82,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://facebook.com/Unmeihe" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
